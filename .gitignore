@@ -1,0 +1,5 @@
+test/
+static/uploads/*
+env/
+__pycache__/
+.ropeproject
