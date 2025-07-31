@@ -14,6 +14,8 @@ This is a Flask app to perform operations on images.
 
 `git clone https://github.com/actuallyarnav/img-tools.git`
 
+`cd img-tools`
+
 `make run`
 
 Then, open `localhost:8000` on a web browser.
